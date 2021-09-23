@@ -58,7 +58,7 @@ After installing the `flux` CLI and running a couple of very simple commands,
 you will have a GitOps workflow setup which involves a staging and a production cluster.
 {{% /alert %}}
 
-If you should need help, please refer to our **[Support page](../support.md)**.
+If you should need help, please refer to our **[Support page](.././support.md)**.
 
 ## More detail on what's in Flux
 
